@@ -1,0 +1,20 @@
+Select a subscription package:
+1. Package A
+2. Package B
+3. Package C
+4. Quit
+3
+How many minutes were used? 300
+The total amount due is $69.99
+Savings with Package A: $30.00
+Savings with Package B: $10.00
+
+Select a subscription package:
+1. Package A
+2. Package B
+3. Package C
+4. Quit
+2
+How many minutes were used? 400
+The total amount due is $59.99
+Savings with Package A: $20.00

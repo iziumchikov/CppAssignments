@@ -1,0 +1,12 @@
+ Your name: Joe
+ The name of a city: Honolulu
+ A physical activity (e.g. jogging, playing baseball): scuba diving
+ An animal: bear
+ A food or product you can buy: potato chips
+ An adjective noun (e.g. blue car): dish rag
+ A number between 10 and 50: 20
+ A number between 0 and 15: 10
+ There once was a person named Joe who lived in Honolulu and who loved scuba diving.
+ At the age of 20, Joe graduated from high school and went to work in a potato chips 
+ factory. Joe got married and had 10 and a pet bear named dish rag. Every weekend the
+ family and dish rag had fun scuba diving together.

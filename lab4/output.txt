@@ -1,0 +1,10 @@
+Please input the number of American Colonial chairs sold 
+20
+Please input the number of Modern chairs sold 
+15
+Please input the number of French Classical chairs sold
+5
+The total sales of American Colonial chairs $1700.00
+The total sales of Modern chairs $862.50
+The total sales of French Classical chairs $638.75
+The total sales of all chairs $3201.25

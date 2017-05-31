@@ -1,0 +1,31 @@
+Please enter the sudent's answers for each of the questions.
+Press Enter after typing each answer.
+Please enter only an A,B,C, or D for each question
+Question 1:A
+Question 2:D
+Question 3:B
+Question 4:B
+Question 5:C
+Question 6:A
+Question 7:A
+Question 8:B
+Question 9:C
+Question 10:A
+Question 11:A
+Question 12:C
+Question 13:D
+Question 14:A
+Question 15:D
+Question 16:C
+Question 17:C
+Question 18:C
+Question 19:D
+Question 20:B
+The student passed the exam
+Correct answers: 16
+Incorrect answers: 4
+Questions that were answered incorrectly: 
+6
+10
+14
+18

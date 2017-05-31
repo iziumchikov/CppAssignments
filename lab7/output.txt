@@ -1,0 +1,62 @@
+I'm thinking of a number
+Can you guess what it is?
+5
+Sorry, that too high.
+Guess again: 
+1
+Congratulations! You guessed it!
+I was thinking of the number 1
+
+The number of guesses is 2
+
+I'm thinking of a number
+Can you guess what it is?
+6
+No, that's too low.
+Guess again: 
+4
+No, that's too low.
+Guess again: 
+8
+No, that's too low.
+Guess again: 
+2
+No, that's too low.
+Guess again: 
+3
+No, that's too low.
+Guess again: 
+1
+No, that's too low.
+Guess again: 
+9
+No, that's too low.
+Guess again: 
+10
+Congratulations! You guessed it!
+I was thinking of the number 10
+
+The number of guesses is 8
+
+I'm thinking of a number
+Can you guess what it is?
+5
+No, that's too low.
+Guess again: 
+1
+No, that's too low.
+Guess again: 
+3
+No, that's too low.
+Guess again: 
+4
+No, that's too low.
+Guess again: 
+8
+No, that's too low.
+Guess again: 
+9
+Congratulations! You guessed it!
+I was thinking of the number 9
+
+The number of guesses is 6

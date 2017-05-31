@@ -1,0 +1,95 @@
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 1
+You selected: Rock
+Computer selected: Paper
+Computer wins! Paper wraps rock.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 1
+You selected: Rock
+Computer selected: Scissors
+You win! Rock smashes scissors.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 2
+You selected: Paper
+Computer selected: Paper
+Tie.No winner.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 2
+You selected: Paper
+Computer selected: Paper
+Tie.No winner.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 2
+You selected: Paper
+Computer selected: Paper
+Tie.No winner.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 2
+You selected: Paper
+Computer selected: Rock
+You win! Paper wraps rock.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 3
+You selected: Scissors
+Computer selected: Rock
+Computer wins!Rock smashes scissors.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 3
+You selected: Scissors
+Computer selected: Paper
+You win! Scissors cuts paper.
+
+Let's play Rock, Paper, Scissors!
+	GAME MENU	
+ 1) Rock 
+ 2) Paper 
+ 3) Scissors 
+ 4) Quit 
+Enter your choice: 4

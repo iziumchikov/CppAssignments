@@ -1,0 +1,33 @@
+This program will calculate average rainfall over a period of years.
+How many years do ypu wish to average? 2
+
+Year1
+
+Number of inches of rain for month #  1? 40
+Number of inches of rain for month #  2? 50
+Number of inches of rain for month #  3? 34
+Number of inches of rain for month #  4? 90
+Number of inches of rain for month #  5? 40
+Number of inches of rain for month #  6? 30
+Number of inches of rain for month #  7? 45
+Number of inches of rain for month #  8? 90
+Number of inches of rain for month #  9? 30
+Number of inches of rain for month #  10? 50
+Number of inches of rain for month #  11? 33
+Number of inches of rain for month #  12? 23
+Year2
+
+Number of inches of rain for month #  1? 40
+Number of inches of rain for month #  2? 30
+Number of inches of rain for month #  3? 29
+Number of inches of rain for month #  4? 40
+Number of inches of rain for month #  5? 10
+Number of inches of rain for month #  6? 0
+Number of inches of rain for month #  7? 12
+Number of inches of rain for month #  8? 89
+Number of inches of rain for month #  9? 40
+Number of inches of rain for month #  10? 40
+Number of inches of rain for month #  11? 50
+Number of inches of rain for month #  12? 23
+Over a period of 24, 958 inches of rain fell.
+Average monthly rainfall for the period is 39.917 inches.

@@ -1,0 +1,98 @@
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+1
+Enter new player name.
+Matthew
+Enter new player score.
+70
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+2
+Player	 Score
+Matthew	  70
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+1
+Enter new player name.
+Alex
+Enter new player score.
+80
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+1
+Enter new player name.
+George
+Enter new player score.
+90
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+2
+Player	 Score
+Matthew	  70
+Alex	  80
+George	  90
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+3
+What player to search for?
+Alex
+The score for Alex is 80
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+4
+What player to remove?
+Alex
+Player Alex removed.
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+2
+Player	 Score
+Matthew	  70
+George	  90
+
+Enter an option.
+1. Add new player and score.
+2. Print all players and scores.
+3. Search for a player's score.
+4. Remove a player. 
+5. Quit. 
+5

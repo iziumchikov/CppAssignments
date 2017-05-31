@@ -1,0 +1,16 @@
+This program will compute patient hospital charges.
+What was the patient type?
+In-patient or Out-patient? (I or O)i
+Number of days in the hospital: 4
+Daily room rate: $200
+Medication charges: $300
+Lab fees and other service charges: $50
+Total charges are $ 1150
+
+This program will compute patient hospital charges.
+What was the patient type?
+In-patient or Out-patient? (I or O)o
+Medication charges: $-54
+Number must be zero or more. Please re-enter: 54
+Lab fees and other service charges: 300
+Total charges are $354

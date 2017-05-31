@@ -1,0 +1,37 @@
+How many floors does the hotel have? 10
+
+How many rooms does floor 1 have? 10
+How many occupied rooms does floor 1 have? 4
+
+How many rooms does floor 2 have? 3
+Invalid. Enter 10 or more: 10
+How many occupied rooms does floor 2 have? 5
+
+How many rooms does floor 3 have? 10
+How many occupied rooms does floor 3 have? 4
+
+How many rooms does floor 4 have? 10
+How many occupied rooms does floor 4 have? 7
+
+How many rooms does floor 5 have? 10
+How many occupied rooms does floor 5 have? 8
+
+How many rooms does floor 6 have? 10
+How many occupied rooms does floor 6 have? 9
+
+How many rooms does floor 7 have? 10
+How many occupied rooms does floor 7 have? 4
+
+How many rooms does floor 8 have? 10
+How many occupied rooms does floor 8 have? 4
+
+How many rooms does floor 9 have? 10
+How many occupied rooms does floor 9 have? 7
+
+How many rooms does floor 10 have? 10
+How many occupied rooms does floor 10 have? 8
+
+Number of rooms: 100
+Occupied rooms: 60
+Vacant rooms: 40
+Occupancy rate: 60.0%

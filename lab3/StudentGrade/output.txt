@@ -1,0 +1,8 @@
+ Please input the student name: Andrew Miller
+ Enter your email address: amiller@aol.com
+ Please input the first student grade: 97
+ Please input the second student grade: 98.3
+ Please input the first student grade: 95
+ Student name: Andrew Miller
+ Student email address: Andrew Miller
+ The average of the three grades is 96.77

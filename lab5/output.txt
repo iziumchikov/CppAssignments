@@ -1,0 +1,71 @@
+Main menu:
+1: Addition
+2: Substraction: 
+3: Multiplication 
+4: Exit
+Enter choice: 
+1
+What is 2 + 8?
+10
+Correct
+Main menu:
+1: Addition
+2: Substraction: 
+3: Multiplication 
+4: Exit
+Enter choice: 
+1
+What is 1 + 8?
+8
+Your answer is wrong. The correct answer is 9
+Main menu:
+1: Addition
+2: Substraction: 
+3: Multiplication 
+4: Exit
+Enter choice: 
+2
+What is 7 - 2?
+5
+Correct
+Main menu:
+1: Addition
+2: Substraction: 
+3: Multiplication 
+4: Exit
+Enter choice: 
+2
+What is 6 - 5?
+2
+Your answer is wrong. The correct answer is 1
+Main menu:
+1: Addition
+2: Substraction: 
+3: Multiplication 
+4: Exit
+Enter choice: 
+3
+What is 6 * 8?
+48
+Correct
+
+Main menu:
+1: Addition
+2: Substraction: 
+3: Multiplication 
+4: Exit
+Enter choice: 
+3
+What is 6 * 5?
+5
+Your answer is wrong. The correct answer is 30
+
+Main menu:
+1: Addition
+2: Substraction: 
+3: Multiplication 
+4: Exit
+Enter choice: 
+4
+ 
+Exit code: 0 (normal program termination)

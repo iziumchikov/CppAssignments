@@ -1,0 +1,17 @@
+Let's play a change-counting game.
+Enter the number of coins needed to make exactly one dollar.
+Enter the number of pennies:23
+Enter the number of nickels:10
+Enter the number of dimes:10
+Enter the number of quarters:2
+
+Sorry, that's more than one dollar.
+
+Let's play a change-counting game.
+Enter the number of coins needed to make exactly one dollar.
+Enter the number of pennies:10
+Enter the number of nickels:4
+Enter the number of dimes:2
+Enter the number of quarters:2
+
+Congratulations! You win!

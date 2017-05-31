@@ -1,0 +1,16 @@
+Enter rainfall for January :10
+Enter rainfall for February :12
+Enter rainfall for March :13
+Enter rainfall for April :5
+Enter rainfall for May :4
+Enter rainfall for June :6
+Enter rainfall for July :3
+Enter rainfall for August :9
+Enter rainfall for September :10
+Enter rainfall for October :14
+Enter rainfall for November :15
+Enter rainfall for December :19
+Total rainfall: 120
+Average rainfall: 10
+Least rainfall in: July
+Most rainfall in: December

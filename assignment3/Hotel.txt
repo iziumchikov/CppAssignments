@@ -1,0 +1,4 @@
+Number of rooms: 100
+Occupied rooms: 60
+Vacant rooms: 40
+Occupancy rate: 60.0%

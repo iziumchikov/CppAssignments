@@ -1,0 +1,12 @@
+How many employees are there in the company? 10
+How many days did employee 1 miss? 3
+How many days did employee 2 miss? 2
+How many days did employee 3 miss? 4
+How many days did employee 4 miss? 1
+How many days did employee 5 miss? 0
+How many days did employee 6 miss? 2
+How many days did employee 7 miss? 3
+How many days did employee 8 miss? 4
+How many days did employee 9 miss? 2
+How many days did employee 10 miss? 1
+The average number of days missed was 2.
